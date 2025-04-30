@@ -1,0 +1,12 @@
+torch==2.5.1
+transformers==4.48.3
+datasets==3.2.0
+accelerate==1.6.0
+peft==0.15.1
+scipy==1.15.2
+sentencepiece==0.2.0
+pydantic==2.10.6
+openai==1.61.0
+vllm==0.7.2
+numpy==1.26.4
+-e git+https://github.com/hiyouga/LLaMA-Factory.git@6a584b40928fb6d69e22c1403db226eb04358a30#egg=llamafactory
