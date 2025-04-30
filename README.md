@@ -7,6 +7,7 @@
 **Dataset :** A custom dataset was built with Arabic articles and their corresponding English summaries/translations. Sources include Arabic news websites and manually curated content.
 
 **Methodology :**
+
 Base model : Qwen2.5-1.5B-Instruct
 
 Training : Used LoRA with LLaMA Factory for efficient fine-tuning
